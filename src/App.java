@@ -13,6 +13,8 @@ public class App {
         int kvot = tal1/tal2;
         System.out.println("summan av tal1 * tal 2 är "+produkt);
         System.out.println("summan av tal1 / tal2 är "+kvot);
-        
+
+        System.out.println("SLUT");
+
     }
 }
