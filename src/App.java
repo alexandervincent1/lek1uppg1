@@ -14,7 +14,11 @@ public class App {
         System.out.println("summan av tal1 * tal 2 är "+produkt);
         System.out.println("summan av tal1 / tal2 är "+kvot);
 
-        System.out.println("SLUT");
+        int rest1 = 10%3;
+        int rest2 = 9%3;
+
+        System.out.println("resten av 10/3 är" +rest1);
+        System.out.println("resten av 9/3 är " +rest2);
 
     }
 }
