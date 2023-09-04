@@ -20,5 +20,14 @@ public class App {
         System.out.println("resten av 10/3 är" +rest1);
         System.out.println("resten av 9/3 är " +rest2);
 
+        double decimaltal_1 = 5.0;
+        double decimaltal_2 = 23.41;
+
+        double dec_summa_add = decimaltal_1+decimaltal_2;
+        double dec_summa_sub = decimaltal_1-decimaltal_2;
+        
+        System.out.println("produkten av tal1*tal2 är " +produkt);
+        System.out.println("kvoten av tal1/tal2 är " + kvot);
+
     }
 }
